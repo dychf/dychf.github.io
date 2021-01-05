@@ -346,6 +346,7 @@ header {
 .header {
     height: 30px;
     margin: 0 auto;
+    margin-top: 5px;
 }
 
 header .logo-link {
@@ -355,7 +356,7 @@ header .logo-link {
 header .nav {
     float: right;
     left: 80px;
-    height: 25px;
+    height: 20px;
     padding-top: 12px;
     padding-right: 50px;
 }
