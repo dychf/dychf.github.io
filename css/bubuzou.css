@@ -336,7 +336,7 @@ table tbody td {
 }
 
 header {
-    background: #41b883;
+    background: #975797;
     position: fixed;
     width: 100%;
     top: 0;
@@ -465,7 +465,7 @@ header .nav-list-item .active {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    color: #41b883;
+    color: #975797;
 }
 
 .archive .post-title-link:hover {
@@ -492,7 +492,7 @@ header .nav-list-item .active {
 
 .post .post-block .post-title {
     font-size: 22px;
-    color: #41b883;
+    color: #975797;
 }
 
 .post-block .post-title a {
@@ -500,7 +500,7 @@ header .nav-list-item .active {
 }
 
 .post-block .post-title a:hover {
-    color: #41b883;
+    color: #975797;
 }
 
 .post-block .post-info {
@@ -543,7 +543,7 @@ header .nav-list-item .active {
 }
 
 .post-block .post-info .post-demo {
-    background-color: #41b883;
+    background-color: #975797;
 }
 
 .post-content h2,
@@ -953,7 +953,7 @@ footer .copyright a:hover {
     border-left: 9px solid transparent;
     border-right: 9px solid transparent;
     border-width: 9px;
-    border-bottom: 9px solid #41b883;
+    border-bottom: 9px solid #975797;
     position: absolute;
     top: 8px;
     left: 5px;
@@ -964,7 +964,7 @@ footer .copyright a:hover {
     content: "";
     width: 100%;
     height: 2px;
-    background-color: #41b883;
+    background-color: #975797;
     display: block;
     transition: all 0.1s;
 }
@@ -974,7 +974,7 @@ footer .copyright a:hover {
     display: block;
     width: 6px;
     height: 6px;
-    background-color: #41b883;
+    background-color: #975797;
     position: absolute;
     left: 11px;
     top: 17px;
@@ -982,7 +982,7 @@ footer .copyright a:hover {
 }
 
 .totop:hover {
-    background-color: #41b883;
+    background-color: #975797;
 }
 
 .totop:hover::before {
@@ -1016,7 +1016,7 @@ footer .copyright a:hover {
 }
 
 .tags a:hover {
-    background: #41b883;
+    background: #975797;
     color: #fff;
 }
 
@@ -1123,7 +1123,7 @@ footer .copyright a:hover {
 
 .search-result-list a {
     position: relative;
-    color: #41b883;
+    color: #975797;
 }
 
 .search-result li a:before {
@@ -1135,11 +1135,11 @@ footer .copyright a:hover {
     width: 6px;
     height: 6px;
     border-radius: 6px;
-    background: #41b883;
+    background: #975797;
 }
 
 .search-result-list .search-keyword {
-    background-color: #81C784;
+    background-color: #975797;
 }
 
 .search-modal .input-field {
@@ -1186,7 +1186,7 @@ footer .copyright a:hover {
 }
 
 .widget h4 {
-    color: #41b883;
+    color: #975797;
     margin: 10px 0;
     font-family: '微软雅黑';
 }
@@ -1196,7 +1196,7 @@ footer .copyright a:hover {
 }
 
 .widget a:hover {
-    color: #41b883;
+    color: #975797;
 }
 
 .widget .category-list-count {
@@ -1325,7 +1325,7 @@ footer .copyright a:hover {
 }
 
 .arCatalog-body dd.on a {
-    color: #41b883;
+    color: #975797;
 }
 
 .arCatalog-body .arCatalog-tack1 .arCatalog-index {
@@ -1352,7 +1352,7 @@ footer .copyright a:hover {
     top: 8px;
     width: 12px;
     height: 12px;
-    background-color: #40b985;
+    background-color: #975797;
     box-shadow: 0px 0px 2px 2px rgba(64, 185, 133, 0.5);
     border-radius: 2em;
     border-width: 0;
@@ -1513,7 +1513,7 @@ footer .copyright a:hover {
     }
 
     header .nav-list-item a {
-        color: #41b883;
+        color: #975797;
         padding: 3px 20px;
     }
 
