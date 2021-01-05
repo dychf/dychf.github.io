@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-05T09:27:06.804Z</updated>
+  <updated>2021-01-05T11:28:43.036Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test1</title>
-    <link href="http://example.com/2021/01/05/test/"/>
-    <id>http://example.com/2021/01/05/test/</id>
+    <title>test11</title>
+    <link href="http://example.com/2021/01/05/test1/"/>
+    <id>http://example.com/2021/01/05/test1/</id>
     <published>2021-01-05T08:44:11.000Z</published>
-    <updated>2021-01-05T09:27:06.804Z</updated>
+    <updated>2021-01-05T11:28:43.036Z</updated>
     
     <content type="html"><![CDATA[<h3 id="第一篇博客测试"><a href="#第一篇博客测试" class="headerlink" title="第一篇博客测试"></a>第一篇博客测试</h3>]]></content>
     
@@ -34,6 +34,32 @@
     
     
     
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test1</title>
+    <link href="http://example.com/2021/01/05/test/"/>
+    <id>http://example.com/2021/01/05/test/</id>
+    <published>2021-01-05T08:44:11.000Z</published>
+    <updated>2021-01-05T11:30:41.244Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="第一篇博客测试"><a href="#第一篇博客测试" class="headerlink" title="第一篇博客测试"></a>第一篇博客测试</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;第一篇博客测试&quot;&gt;&lt;a href=&quot;#第一篇博客测试&quot; class=&quot;headerlink&quot; title=&quot;第一篇博客测试&quot;&gt;&lt;/a&gt;第一篇博客测试&lt;/h3&gt;</summary>
+      
+    
+    
+    
+    <category term="css" scheme="http://example.com/categories/css/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
   </entry>
   
   <entry>
@@ -41,7 +67,7 @@
     <link href="http://example.com/2021/01/05/hello-world/"/>
     <id>http://example.com/2021/01/05/hello-world/</id>
     <published>2021-01-05T08:32:46.405Z</published>
-    <updated>2021-01-05T08:32:46.405Z</updated>
+    <updated>2021-01-05T11:28:25.803Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p>##dychf Quick Start </p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -53,6 +79,32 @@
     
     
     
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test111</title>
+    <link href="http://example.com/2020/01/05/test2/"/>
+    <id>http://example.com/2020/01/05/test2/</id>
+    <published>2020-01-05T08:44:11.000Z</published>
+    <updated>2021-01-05T11:32:27.901Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="第一篇博客测试"><a href="#第一篇博客测试" class="headerlink" title="第一篇博客测试"></a>第一篇博客测试</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;第一篇博客测试&quot;&gt;&lt;a href=&quot;#第一篇博客测试&quot; class=&quot;headerlink&quot; title=&quot;第一篇博客测试&quot;&gt;&lt;/a&gt;第一篇博客测试&lt;/h3&gt;</summary>
+      
+    
+    
+    
+    <category term="css" scheme="http://example.com/categories/css/"/>
+    
+    
+    <category term="测试1" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%951/"/>
     
   </entry>
   
