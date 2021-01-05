@@ -344,7 +344,7 @@ header {
 }
 
 .header {
-    height: 60px;
+    height: 30px;
     margin: 0 auto;
 }
 
@@ -356,7 +356,7 @@ header .nav {
     float: right;
     left: 80px;
     height: 25px;
-    padding-top: 15px;
+    padding-top: 12px;
     padding-right: 50px;
 }
 
@@ -1030,7 +1030,7 @@ footer .copyright a:hover {
     display: block;
     width: 30px;
     height: 30px;
-    background: url(https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202010/search_white.png) no-repeat center center;
+    background: url('../images/search.png') no-repeat center center;
     background-size: 20px;
 }
 
