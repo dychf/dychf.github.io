@@ -20,6 +20,7 @@ jobs:
 
       - name: Deploy
         run: |
-          git push origin --delete gh-pages
+          git checkout gh-pages
+          git pull
           mkdocs gh-deploy
   
