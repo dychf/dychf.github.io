@@ -22,6 +22,5 @@ jobs:
         run: |
           # git checkout gh-pages
           # git pull
-          git push -f origin gh-deploy
-          mkdocs gh-deploy
+          mkdocs gh-deploy --force
   
