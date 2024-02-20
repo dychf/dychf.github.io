@@ -20,7 +20,5 @@ jobs:
 
       - name: Deploy
         run: |
-          # git checkout gh-pages
-          # git pull
           mkdocs gh-deploy --force
   
