@@ -62,3 +62,9 @@ theme:
       default-tag: fontawesome/solid/tag
       hardware-tag: fontawesome/solid/microchip
       software-tag: fontawesome/solid/laptop-code
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dychf
