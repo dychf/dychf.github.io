@@ -68,7 +68,7 @@ theme:
 
 # edit_uri: edit/main/docs # 编辑按钮跳转的链接 
 repo_url: https://github.com/dychf/dychf.github.io # 右上角点击跳转的链接
-# repo_name: dychf.github.io # 右上角的名字
+repo_name: dychf.github.io # 右上角的名字
 
 extra:
   generator: False
