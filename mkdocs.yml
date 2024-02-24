@@ -56,7 +56,7 @@ theme:
     code: Roboto Mono
   language: zh # 一些提示性的文字会变成中文
   icon: # 一些用到的icon
-    # repo: fontawesome/brands/github
+    repo: fontawesome/brands/github
     # logo: fontawesome/solid/microchip
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
